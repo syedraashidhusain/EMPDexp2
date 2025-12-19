@@ -46,7 +46,7 @@
 ## Output
 
 
-### Name:SYED RAASHID HUSSAIN.M
+### Name:SYED RAASHID HUSAIN.M
 ### Register Number:25009038
 
 ## RESULT:
